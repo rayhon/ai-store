@@ -2,7 +2,8 @@
 
 A modern e-commerce application built with React, TypeScript, and Vite, featuring a clean UI powered by shadcn/ui components and TailwindCSS.
 
-![Uploading Screenshot 2024-11-03 at 12.22.02 AM.png…]()
+<img width="1450" alt="Screenshot 2024-11-03 at 12 22 02 AM" src="https://github.com/user-attachments/assets/c37175e7-edc3-481c-b882-98cda7857ef9">
+
 
 
 ## Features
